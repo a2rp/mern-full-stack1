@@ -6,7 +6,7 @@ run backend
 - open the "backend" folder in vscode
 - open integrated terminal in root of the folder
 - in terminal type command "npm install" and press enter to install the node packages
-- after installation is complete type "npm run start:dev" and press enter to run the application
+- after installation is complete type "npm run start:server" and press enter to run the application
 - server listening on port 1198: http://localhost:1198
 
 backend .env file ->
